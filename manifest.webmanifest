@@ -1,0 +1,9 @@
+{
+  "name": "Giro Celular",
+  "short_name": "Giro Celular",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#111111",
+  "description": "Calculadora de negociação e gestão de revenda de celulares"
+}
